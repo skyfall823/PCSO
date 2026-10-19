@@ -1,4 +1,4 @@
-#Initial_Access 
+##Initial_Access 
 
 nxc ldap 192.168.x.97 -u charlotte -p 'Game20n4.!'
 	==> Validated Charlotte's creds against DC's directory service
